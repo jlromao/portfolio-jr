@@ -3,5 +3,5 @@
 require 'sinatra'
 
 get '/' do
-return "pushing to heroku"
+send_file File.join("public","website_v1.html")
 end

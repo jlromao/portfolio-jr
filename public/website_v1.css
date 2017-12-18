@@ -1,0 +1,58 @@
+
+
+
+
+body {
+  font-family:fantasy;
+  magin:0;
+  hight:100%;
+  color: white;
+}
+
+h2{
+
+  font-size: 1000%;
+}
+.Profile{
+
+  margin-left: 40%;
+}
+
+
+body {
+    background-image: url("logos/backgrounds.jpg");
+}
+
+/*a:hover {background-color: blue:
+
+}*/
+
+.Img-circle {
+    border-radius: 50%;
+}
+
+ol{
+  display: inline;
+    /*width: 100px;*/
+    padding: 100px;
+}
+
+
+
+.Row
+{
+    bottom: 0;
+    border-style: groove;
+    display: table;
+    width: 100%;
+    height: auto;
+    table-layout: fixed;
+    /*border-spacing: 10px;*/
+}
+.Column
+{
+  position:relative;
+
+    display: table-cell;
+    /*background-color: #d9d9d9;*/
+}
